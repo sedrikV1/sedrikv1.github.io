@@ -1,4 +1,4 @@
-# Site settings
+_config.yml
 title: Alexis Yobanis
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
